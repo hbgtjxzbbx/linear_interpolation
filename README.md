@@ -4,7 +4,7 @@ How to compile:
 
 ```
 $ sh make_cpu.sh
-$ sh make_cuda_cpu.sh
+$ sh make_cuda.sh
 $ sh make_NN.sh
 ```
 
